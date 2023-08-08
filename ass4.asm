@@ -1,3 +1,4 @@
+;求和
 assume cs:code
 code segment
     dw 0033h,0044h,0011h,0022h
